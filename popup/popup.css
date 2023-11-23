@@ -1,0 +1,77 @@
+
+/* popup.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    background: linear-gradient(331deg, rgba(138,250,255,1) 0%, rgba(92,160,246,1) 49%, rgba(255,139,241,1) 100%);
+
+  }
+  
+  h1 {
+    color: #333;
+    font-family: Roboto;
+    font-size: 4rem;
+    margin: 30px;
+    text-align: center;
+    margin-top: 50px;
+
+
+  }
+
+  name {
+    color: #333;
+    font-family: Roboto;
+    font-size:14px;
+    text-align: center;
+    margin-top: 50px;
+    text-decoration: none;
+  }
+
+  personal {
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+
+  a {
+    color: #333;
+    font-family: Roboto;
+    font-size:14px;
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 1rem;
+  }
+  
+
+  
+  p {
+    color: #333;
+    text-align: center;
+    margin: 0 auto;
+    font-weight: bold;
+    width: 85%;
+    margin-bottom: 2rem;
+    font-size: 1rem;
+
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Add additional styling as needed */
+  

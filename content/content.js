@@ -25,6 +25,7 @@ if(document.readyState !== 'complete') {
 
 const links = {
     "x.com":"fixupx.com",
-    "instagram.com":"ddinstagram.com"
+    "instagram.com":"ddinstagram.com",
+    "www.instagram.com":"www.ddinstagram.com",
   }
   
