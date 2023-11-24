@@ -1,6 +1,8 @@
 
 👉 [Github Link](https://github.com/aryvyo/embedfix)
 
+👉 [Chrome extension store link](https://chromewebstore.google.com/detail/bfghahdlkiniadkofaeniejohkdndllh)
+
 ## Why would you use this? 🔎
 
 To fix the embeds on links you share on social media.
