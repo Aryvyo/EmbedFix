@@ -3,17 +3,18 @@
     "name": "EmbedFix",
     "version": "1.0",
     "description": "Fixes embeds for social media sharing links!",
-    "permissions": ["tabs", "activeTab","clipboardWrite"],
+    "permissions": ["clipboardWrite"],
       "content_scripts": [
         {
           "matches": [
-            "https://twitter.com/*",
             "https://*.twitter.com/*",
-            "https://x.com/*",
             "https://*.x.com/*",
-            "https://instagram.com/*"
+            "https://*.instagram.com/*",
+            "https://*.tiktok.com/*"
+        
           ],
         "js": ["content/content.js"]
+
       }
     ],
     "action": {
