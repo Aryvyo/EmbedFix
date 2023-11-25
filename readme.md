@@ -1,7 +1,9 @@
 
 👉 [Github Link](https://github.com/aryvyo/embedfix)
 
-👉 [Chrome extension store link](https://chromewebstore.google.com/detail/bfghahdlkiniadkofaeniejohkdndllh)
+
+
+👉 ![Get it on the Google Chrome store!](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png)
 
 ## Why would you use this? 🔎
 

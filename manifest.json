@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "EmbedFix",
-    "version": "1.0",
+    "version": "1.1",
     "description": "Fixes embeds for social media sharing links!",
     "permissions": ["clipboardWrite"],
       "content_scripts": [
