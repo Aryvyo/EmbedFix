@@ -1,7 +1,7 @@
 console.log("content.js loaded");
   
 if(document.readyState !== 'complete') {
-    window.addEventListener('load',() => {console.log("window loaded");afterWindowLoaded();});
+    window.addEventListener('load',() => {afterWindowLoaded();});
 } else {
     
     afterWindowLoaded();
@@ -11,9 +11,11 @@ if(document.readyState !== 'complete') {
   function afterWindowLoaded () {
     console.log("afterWindowLoaded");
     document.addEventListener('copy', async (event) => {
+        /*  DEBUG LOGS  
         console.log(event)
         console.log("content: " + event.target.textContent);
         console.log("baseURI: " + event.target.baseURI);
+        */
 
         if(event.target.textContent == ""){
             let text = ""
