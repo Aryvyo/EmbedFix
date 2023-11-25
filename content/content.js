@@ -9,7 +9,7 @@ if(document.readyState !== 'complete') {
 
   
   function afterWindowLoaded () {
-    console.log("afterWindowLoaded");
+    //console.log("afterWindowLoaded");
     document.addEventListener('copy', async (event) => {
         /*  DEBUG LOGS  
         console.log(event)
