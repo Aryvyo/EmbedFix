@@ -56,5 +56,7 @@ const links = {
     "www.tiktok.com":"www.tiktxk.com",
     "tiktok.com":"tiktxk.com",
     "twitter.com":"vxtwitter.com",
+    "reddit.com":"rxddit.com",
+    "www.reddit.com":"www.rxddit.com",
   }
   
