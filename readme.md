@@ -3,7 +3,7 @@
 
 
 
-👉 ![Get it on the Google Chrome store!](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png)
+👉 [![Get it on the Google Chrome store!](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png)](https://chromewebstore.google.com/detail/embedfix/bfghahdlkiniadkofaeniejohkdndllh?hl=en)
 
 ## Why would you use this? 🔎
 
